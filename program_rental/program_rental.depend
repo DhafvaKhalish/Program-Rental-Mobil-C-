@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1659317129 source:c:\file c++\program_rental\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<iomanip>
+	<cstdlib>
+
